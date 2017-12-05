@@ -11,3 +11,6 @@ gem 'minitest', '~> 5.10'
 gem 'overcommit', '0.41.0'
 gem 'rubocop', '0.51.0'
 gem 'simplecov', '0.13.0'
+
+gem 'capybara'
+gem 'poltergeist'
